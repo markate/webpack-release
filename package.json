@@ -1,0 +1,25 @@
+{
+  "name": "webpack-release",
+  "version": "0.0.0",
+  "description": "Auto synchronization your entry to remote server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack plugin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markate/webpack-release.git"
+  },
+  "keywords": [
+    "webpack-release"
+  ],
+  "author": "Markate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markate/webpack-release/issues"
+  },
+  "homepage": "https://github.com/markate/webpack-release#readme",
+  "dependencies": {
+    "request": "^2.74.0"
+  }
+}
