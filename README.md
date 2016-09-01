@@ -3,7 +3,7 @@
 ##安装说明：
    npm install webpack-release
 ##使用说明：
-
+    var ReleasePlugin = require('webpack-release');
     plugins: [
         new ReleasePlugin({
             receiveUrl:'http://10.6.131.78:8899/receiver',
