@@ -12,7 +12,7 @@ var Stream = require('stream');
 @para plugin 
 {
     receiveUrl : '',
-    remotePath : ''   
+    remotePath : ''    
 }
 */
 function ReleasePlugin( plugin ) {
